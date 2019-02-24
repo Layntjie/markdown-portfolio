@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-{![A strange beast](https://octodex.github.com/images/yaktocat.png)}
+{!A strange beast](https://octodex.github.com/images/yaktocat.png)}
 
 <br>
 
