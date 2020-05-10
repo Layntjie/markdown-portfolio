@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{!A strange beast](https://octodex.github.com/images/yaktocat.png)}
+{!Early bird special](https://photos.google.com/photo/AF1QipM3myMZ1VGJUW2p3FXGP4M1b6-cZ3a9NuQpH6-G}
 
 <br>
 
